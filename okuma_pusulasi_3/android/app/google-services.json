@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600432874904",
+    "project_id": "okuma-pusulasi",
+    "storage_bucket": "okuma-pusulasi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600432874904:android:a28fd55fbf6382643b47ed",
+        "android_client_info": {
+          "package_name": "com.example.okuma_pusulasi_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yyQDAaT0S4HClzPsSo8N6IejenNKoEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600432874904:android:7334fb2a7af774873b47ed",
+        "android_client_info": {
+          "package_name": "com.example.okuma_pusulasi_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yyQDAaT0S4HClzPsSo8N6IejenNKoEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
